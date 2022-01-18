@@ -39,7 +39,7 @@ certainly one I can picture myself and other students using.
 - As a user, I want to be able to load my schedule from file
 
 ## Refactoring
-# Possible changes to class hierarchy and code
+### Possible changes to class hierarchy and code
 
 - A few of the Tool subclasses contain similar or identical classes, each of which work in sequence to accomplish a 
 task specific to that class; had I more time, I would extract these to reduce duplication. 
