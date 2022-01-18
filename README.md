@@ -1,5 +1,5 @@
 # Schedule_Project
-Note: this project was completed in April 2020 as part of a software construction class
+*Note: this project was completed in April 2020 as part of a software construction class*
 
 This application will allow its users to create a schedule reflecting their classes, then attach links to each class, 
 allowing them to be accessed easily. This application is designed for students, particularly those in university. 
